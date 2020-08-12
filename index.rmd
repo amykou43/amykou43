@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Amy Kou.
+
+![My dog George](_site/img/my_dog.png)
+
+</center>
+  
+[Amy Kou](https://github.com/amykou43/amykou43.git/) I am a fourth year Geography major here at UC Santa Barbara. I am from the Bay Area, San Jose to be specific. My hobbies include listening to music, jamming on the guitar, and going to the gym. 

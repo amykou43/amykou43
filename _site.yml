@@ -1,0 +1,17 @@
+name: "Amy's first-website"
+output_dir: "."
+navbar:
+  title: "Amy's Beautiful Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "GIS Work"
+      href: geog176A.html
+    - text: "CV"
+      href: cv.html
+  right:
+    - icon: fa-github
+      href: https://github.com/amykou43
+output:
+  html_document:
+    theme: flatly

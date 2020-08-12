@@ -1,0 +1,19 @@
+---
+title: "Amy Kou"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Education:
+-pursuing bachelor's in Geography at UCSB
+
+-Fourth year, **2021**
+
+# Experience:
+-PSTAT 10 (introduction to R)
+
+-Geog 176A
+
+-Geog 172
