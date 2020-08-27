@@ -11,4 +11,9 @@ In the summer of 2020 I took a class GIS course based in R. I worte some code, a
 - Look at how high quality my work is!
 
 <i class="fas fa-home"></i>
+
 `r icon::fa_globe()` 
+
+https://amykou43.github.io/geog-176A-labs/lab-02.html
+
+https://amykou43.github.io/geog-176A-labs/lab-03.html
