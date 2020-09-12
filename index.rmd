@@ -10,3 +10,8 @@ title: "About Me"
 </center>
   
 [Amy Kou](https://github.com/amykou43/amykou43.git/) I am a fourth year Geography major here at UC Santa Barbara. I am from the Bay Area, San Jose to be specific. My hobbies include listening to music, jamming on the guitar, and going to the gym. 
+
+With the coding skills I learned in R, I plan to use them to solve various problems and display data/spatial analysis. This will help me with geographic visualization of data that I will do in the field of GIS and to create maps. 
+
+Email: hkou@ucsb.edu
+Github: https://amykou43.github.io/amykou43/

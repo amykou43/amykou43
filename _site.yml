@@ -7,11 +7,13 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
-    - text: "CV"
+    - text: "CV/Resume"
       href: cv.html
   right:
     - icon: fa-github
       href: https://github.com/amykou43
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/amy-kou-068a71121/
 output:
   html_document:
     theme: flatly

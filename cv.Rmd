@@ -11,9 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -Fourth year, **2021**
 
-# Experience:
--PSTAT 10 (introduction to R)
+# Classes:
 
--Geog 176A
+-PSTAT 10- (introduction to R)
 
--Geog 172
+-Geog 176A (Introduction to Geographic Information Systems)
+
+-Geog 172 (Intermediate Geographical Data Analysis)
+
+# Work Experience:
+
+-Teaching assistant at Kumon (3 years)
+
