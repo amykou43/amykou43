@@ -15,6 +15,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 ## [Data Wrangling with COVID-19 Data](https://amykou43.github.io/geog-176A-labs/lab-02.html)
 
 ![](img/lab 2.png)
+
 - Practiced data wrangling and visualization skills using real-time COVID-19 data maintained by the New York Times
 - Learned how to make tables with knitr::kable and read in data with read_csv
 - Learned how to join two data sets
@@ -23,6 +24,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 ## [Projections, Distances, and Mapping ](https://amykou43.github.io/geog-176A-labs/lab-03.html)
 
 ![](img/lab 3.png)
+
 - Explored the properties of sf, sfc, and sfg features & objects
 - Calculated the distances of US cities to various US borders
 - Used ggrepel to make labels in ggplot graph
@@ -30,6 +32,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 ## [Tesselations, Spatial Joins, and Point-in-Polygon](https://amykou43.github.io/geog-176A-labs/lab-04.html)
 
 ![](img/lab 4.png)
+
 - Explored the impacts of tessellated surfaces and the modifiable areal unit problem (MAUP) using the National Dam Inventory 
 - Used tessellations to analyze dam data across the United States
 - Used function to summarize tesellated surfaces
@@ -38,6 +41,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 ## [Raster Analysis](https://amykou43.github.io/geog-176A-labs/lab-05.html)
 
 ![](img/lab 5.png)
+
 - Worked with multiband raster files to detect and analyze a flood event near Palo, Iowa
 - Used the raster package to create flood images using mutliband Landsat Imagery, thresholding, and classification methods
 - Calculated the kmeans to determine the accuracy of the binary raster layers
@@ -45,6 +49,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 ## [Terrain Analysis](https://amykou43.github.io/geog-176A-labs/lab-06.html)
 
 ![](img/lab 6.png)
+
 - Visualized Santa Barbara Basin and Mission Creek River System
 - Used Terrain Analysis to create Elevation, Hillshade, and Height Above Nearest Drainage (HAND) rasters
 - 2017 Flood impact assessment to see impacted buildings 
